@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Javier/Google%20Drive/Asignaturas/4º/NPI/NPI_P3/VozApp/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">VozApp</string>
+    <string name="instructions_langmodel">Choose a language model</string>
+    <string name="instructions_numresults">Choose the maximum number of results</string>
+    <string name="radiobutton_free">Free form</string>
+    <string name="radiobutton_web">Web search</string>
+    <string name="speechbtn">Pulsa el botón para hablar</string>
+    <!-- From: file:/C:/Users/Javier/Google%20Drive/Asignaturas/4º/NPI/NPI_P3/VozApp/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
